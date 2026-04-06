@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Saif%20%E2%80%A2%20Systems%20Architect&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Building%20intelligent%20systems%20at%20the%20intersection%20of%20AI%20%26%20infrastructure&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=180&section=header&text=Syd%20S&fontSize=50&fontColor=58a6ff&fontAlignY=30&desc=Systems%20Architect%20%7C%20AI%20%2B%20Infrastructure&descSize=18&descColor=8b949e&descAlignY=52&animation=fadeIn"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://github.com/saifsysim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/saifsysim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saifsysim3101/)
+[![Guardrail AI](https://img.shields.io/badge/Guardrail_AI-0d1117?style=for-the-badge&logo=railway&logoColor=00C853)](https://guardrail-mvp-production.up.railway.app)
 
 <br/>
 
