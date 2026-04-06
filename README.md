@@ -11,14 +11,19 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > Building AI-native infrastructure                    ║
-║   > Scaling data systems from 0 → production             ║
-║   > Shipping fast. Breaking nothing.                     ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   15+ years engineering systems that scale.                      ║
+║   From CI/CD pipelines to AI-native data platforms.              ║
+║                                                                  ║
+║   > Architect of production AI safety systems                    ║
+║   > Published on Databricks, ClickHouse & Monorepos              ║
+║   > Building the future of natural language data access           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=saifsysim&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
@@ -62,7 +67,7 @@ Ask questions in plain English — get answers from Gmail, Google Sheets, Postgr
 <td width="50%" valign="top">
 
 ### [🛡️ Guardrail AI](https://guardrail-mvp-production.up.railway.app)
-**AI Safety & Confidence Engine**
+**AI Safety & Confidence Engine** &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=railway&logoColor=white)](https://guardrail-mvp-production.up.railway.app)
 
 Real-time LLM response scoring for hallucination detection, citation verification, and domain risk assessment. Production-deployed safety middleware.
 
@@ -118,6 +123,16 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 
 ---
 
+## 📝 Published Work
+
+| Publication | Topic | Platform |
+|------------|-------|----------|
+| [**Slingshot: Databricks Asset Bundles**](https://www.capitalone.com/software/blog/slingshot-databricks-asset-bundles-2025/) | CI/CD for Databricks with asset bundles at scale | Capital One Tech Blog |
+| [**Medallion Architecture with ClickHouse**](https://dzone.com/articles/why-you-need-medallion-architecture-clickhouse) | Bronze/Silver/Gold data pipeline patterns | DZone |
+| [**Monorepo Development**](https://dzone.com/articles/monorepo-development-with-react-nodejs-and-postgre) | React + Node.js + PostgreSQL mono-repo setup | DZone |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -135,6 +150,9 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0d1117?style=flat-square&logo=clickhouse&logoColor=FFCC01)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Frontend**
 
@@ -147,6 +165,7 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
