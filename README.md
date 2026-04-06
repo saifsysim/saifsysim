@@ -133,11 +133,24 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 
 ## 📝 Published Work
 
-| Publication | Topic | Platform |
-|------------|-------|----------|
-| [**Slingshot: Databricks Asset Bundles**](https://www.capitalone.com/software/blog/slingshot-databricks-asset-bundles-2025/) | CI/CD for Databricks with asset bundles at scale | Capital One Tech Blog |
-| [**Medallion Architecture with ClickHouse**](https://dzone.com/articles/why-you-need-medallion-architecture-clickhouse) | Bronze/Silver/Gold data pipeline patterns | DZone |
-| [**Monorepo Development**](https://dzone.com/articles/monorepo-development-with-react-nodejs-and-postgre) | React + Node.js + PostgreSQL mono-repo setup | DZone |
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@symehmoo)
+[![DZone](https://img.shields.io/badge/DZone-0d1117?style=flat-square&logo=dzone&logoColor=white)](https://dzone.com/users/3042251/symehmoo.html)
+[![DEV](https://img.shields.io/badge/DEV.to-0d1117?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/siraj_syed_a122e4986ce967)
+
+| Article | Platform |
+|---------|----------|
+| [**Slingshot: Databricks Asset Bundles**](https://www.capitalone.com/software/blog/slingshot-databricks-asset-bundles-2025/) | Capital One Tech |
+| [**We Scored 5 Open-Source LLMs on Safety**](https://medium.com/@symehmoo/we-scored-5-open-source-llms-on-safety-heres-which-one-hallucinates-the-most-bf4238913822) | Medium |
+| [**Simplifying Access Control with OpenFGA**](https://medium.com/@symehmoo/simplifying-access-control-in-data-visualization-platforms-with-openfga-177d95316ada) | Medium |
+| [**How to Manage a High Performer**](https://medium.com/@symehmoo/how-to-manage-a-high-performer-without-holding-them-back-d5a041421f8b) | Medium |
+| [**Full-Stack Monorepo: Building Scalable Apps**](https://medium.com/@symehmoo/level-up-your-full-stack-game-building-scalable-apps-with-a-monorepo-abd305cfe5e8) | Medium |
+| [**Is Computer Science Still the Future?**](https://medium.com/@symehmoo/is-computer-science-still-the-future-rethinking-careers-in-the-age-of-ai-ce8d9952f319) | Medium |
+| [**Medallion Architecture with ClickHouse**](https://dzone.com/articles/why-you-need-medallion-architecture-clickhouse) | DZone |
+| [**Monorepo: React, Node.js & PostgreSQL**](https://dzone.com/articles/monorepo-development-with-react-nodejs-and-postgre) | DZone |
+| [**Multi-Cluster Networking: Kubernetes & Docker**](https://dzone.com/articles/multi-cluster-networking-with-kubernetes-docker) | DZone |
+| [**Kubeflow: Scalable Machine Learning Systems**](https://dzone.com/articles/kubeflow-driving-scalable-machine-learning-systems) | DZone |
+| [**Syncing PostgreSQL to ClickHouse (Airbyte + DBT)**](https://dev.to/siraj_syed_a122e4986ce967/part-2-syncing-normalized-postgresql-data-to-denormalized-clickhouse-using-airbyte-dbt-2hic) | DEV |
+| [**Data Models for PostgreSQL & ClickHouse**](https://dev.to/siraj_syed_a122e4986ce967/designing-data-models-that-work-for-both-postgresql-and-clickhouse-a-developers-guide-3e4d) | DEV |
 
 ---
 
