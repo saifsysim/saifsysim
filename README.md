@@ -1,7 +1,7 @@
 <div align="center">
 
 # Syd S
-**Systems Architect | AI + Infrastructure**
+**Technology Leader | AI Systems, Data Engineering & DevOps | Published Author**
 
 <br/>
 
