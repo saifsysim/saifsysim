@@ -24,8 +24,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=saifsysim&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
-
 </div>
 
 ---
