@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=180&section=header&text=Syd%20S&fontSize=50&fontColor=58a6ff&fontAlignY=30&desc=Systems%20Architect%20%7C%20AI%20%2B%20Infrastructure&descSize=18&descColor=8b949e&descAlignY=52&animation=fadeIn"/>
+<!-- Header Banner -->
+<img width="100%" src="banner.png" alt="Syd S — Systems Architect | AI + Infrastructure"/>
 
 <br/>
 
@@ -190,7 +190,5 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer"/>
-
+<sub>Built with curiosity and way too much coffee.</sub>
 </div>
