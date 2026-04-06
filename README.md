@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="banner.png" alt="Syd S — Systems Architect | AI + Infrastructure"/>
+# Syd S
+**Systems Architect | AI + Infrastructure**
 
 <br/>
 
