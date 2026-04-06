@@ -1,7 +1,7 @@
 <div align="center">
 
 # Syd S
-**Technology Leader | AI Systems, Data Engineering & DevOps | Published Author**
+**Full-Stack Technology Leader | AI, Data, Cloud & Infrastructure | Published Author**
 
 <br/>
 
@@ -12,16 +12,19 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   15+ years engineering systems that scale.                      ║
-║   From CI/CD pipelines to AI-native data platforms.              ║
-║                                                                  ║
-║   > Architect of production AI safety systems                    ║
-║   > Published on Databricks, ClickHouse & Monorepos              ║
-║   > Building the future of natural language data access           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   15+ years building systems that scale.                             ║
+║   Full-stack: frontend to infra. Cloud-agnostic.                     ║
+║                                                                      ║
+║   > React, Node, Python, FastAPI — front to back                     ║
+║   > Databricks, Snowflake, ClickHouse — data at scale                ║
+║   > AWS, Docker, Jenkins, CI/CD — infra that ships                   ║
+║   > Claude, Ollama, LangChain — AI tools that work                   ║
+║                                                                      ║
+║   Off-screen: cricket, soccer, tennis, golf                          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -32,16 +35,22 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🧠 AI & Data Systems
-Building natural language interfaces that make complex data accessible. From query planners to confidence engines — AI that you can trust and verify.
+### 🧠 AI & Data
+NL query engines, LLM safety scoring, Databricks & Snowflake pipelines, ClickHouse analytics
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🏗️ Infrastructure & DevOps
-Designing scalable architectures with CI/CD pipelines, container orchestration, and monitoring systems that keep production rock-solid.
+### 💻 Full-Stack Apps
+React frontends, FastAPI/Node backends, OAuth integrations, real-time dashboards
+
+</td>
+<td width="33%">
+
+### 🏗️ Cloud & DevOps
+AWS, Docker, Jenkins CI/CD, cloud-agnostic infra, monitoring & observability
 
 </td>
 </tr>
