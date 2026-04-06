@@ -147,8 +147,6 @@ End-to-end MLOps with Ollama, LangFuse, DVC, and MCP. Run production-grade AI pi
 | [**Is Computer Science Still the Future?**](https://medium.com/@symehmoo/is-computer-science-still-the-future-rethinking-careers-in-the-age-of-ai-ce8d9952f319) | Medium |
 | [**Medallion Architecture with ClickHouse**](https://dzone.com/articles/why-you-need-medallion-architecture-clickhouse) | DZone |
 | [**Monorepo: React, Node.js & PostgreSQL**](https://dzone.com/articles/monorepo-development-with-react-nodejs-and-postgre) | DZone |
-| [**Multi-Cluster Networking: Kubernetes & Docker**](https://dzone.com/articles/multi-cluster-networking-with-kubernetes-docker) | DZone |
-| [**Kubeflow: Scalable Machine Learning Systems**](https://dzone.com/articles/kubeflow-driving-scalable-machine-learning-systems) | DZone |
 | [**Syncing PostgreSQL to ClickHouse (Airbyte + DBT)**](https://dev.to/siraj_syed_a122e4986ce967/part-2-syncing-normalized-postgresql-data-to-denormalized-clickhouse-using-airbyte-dbt-2hic) | DEV |
 | [**Data Models for PostgreSQL & ClickHouse**](https://dev.to/siraj_syed_a122e4986ce967/designing-data-models-that-work-for-both-postgresql-and-clickhouse-a-developers-guide-3e4d) | DEV |
 
